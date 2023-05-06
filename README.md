@@ -1,4 +1,4 @@
 # DS_repo
 Data Science Projects
 
-This repository showcases some of the data science projects I have carried out so far.
+This repository showcases the key data science project I completed as part of my iO Academy bootcamp course in Data Science and Machine Learning.
